@@ -101,7 +101,7 @@ public class Main {
 
     }
 
-    // Took this from the go fish game because it works so well. 
+    // Took this from the go fish game because it works so well.
     public static boolean gameOver(ArrayList playerHandArray) { // To end the game if nothing left in hand.
 
         if (playerHandArray.isEmpty()) { // Not sure this will work???
